@@ -11,7 +11,7 @@ sections:
       background_image_repeat: repeat
     has_background: true
     subtitle: We are testing this
-    title: Testing
+    title: first intro
     type: hero_section
     image: images/hero.svg
     actions:
